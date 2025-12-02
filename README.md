@@ -71,7 +71,7 @@ Docker · Nginx · Cloudflare · GCP · Ubuntu · Vercel
 ## 🌐 Connect With Me
 
 - 🌎 Website: **https://fanzru.dev**
-- 📧 Email: **fattahilaaf080701@gmail.com**
+- 📧 Email: **hi@fanzru.dev**
 - 💼 LinkedIn: **linkedin.com/in/fanzru**
 
 ---
