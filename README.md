@@ -33,39 +33,12 @@ I build things end-to-end — from idea → architecture → development → pro
 
 ---
 
-## 💼 Experience Snapshot
+## 💼 Current Crafting Home
 
 ### **🧩 Lead Fullstack Engineer @ Astabyte**
 - Building SaaS, enterprise platforms, and custom systems for Telkom, Puri Group, Web3 companies  
 - Managing full squads: product, designer, backend, frontend, mobile  
 - Portfolio: kangtechsolution.com, naremax.com, kerjago.id, etc.
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-Go · TypeScript · Java · PHP · Dart · Swift · Python
-
-### **Backend**
-PostgreSQL · Redis/KeyDB · Kafka · Camunda · NestJS · Gin · Echo · Microservices
-
-### **Frontend**
-Next.js · React · Tailwind · Shadcn · Hono
-
-### **AI / ML**
-LLMs · RAG · Vector DBs · Embeddings · Azure AI · OpenAI · Agents
-
-### **Infra**
-Docker · Nginx · Cloudflare · GCP · Ubuntu · Vercel
-
----
-
-## 📊 GitHub Analytics
-
-| ![Affan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=fanzru&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanzru&layout=compact&theme=dark) |
-| --- | --- |
-
 ---
 
 ## 🌐 Connect With Me
